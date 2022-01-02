@@ -6,4 +6,4 @@ Hardware Requirements:- The mobile robot works with the help of an Intel RealSen
 
 Reactive Behaviours :- The reactive behaviours include fear, love, aggression, and curiosity.
 
-Following and Obstacle Detection Behaviour The following behaviour consists of object detection and human following together.This behaviour is identifying both humans and objects within the same frame.
+Following and Obstacle Detection Behaviour:- The following behaviour consists of object detection and human following together.This behaviour is identifying both humans and objects within the same frame.
